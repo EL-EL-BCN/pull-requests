@@ -1,0 +1,1 @@
+By default git allows default merging of branches from pull requests.
